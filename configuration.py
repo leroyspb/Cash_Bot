@@ -1,5 +1,5 @@
 import telebot
-TOKEN = '6320940118:AAEEhqrxHsVcQWSHn50A3mlnGUtyAU2GzwE'
+TOKEN = '6320940118:********************'
 
 bot = telebot.TeleBot(TOKEN)
 # Crypto178Bot
